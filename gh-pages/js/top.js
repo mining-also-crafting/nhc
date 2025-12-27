@@ -1,0 +1,7 @@
+document.addEventListener("DOMContentLoaded", function(event) {
+    document.querySelector(".top").addEventListener("click", () => {
+        window.scrollTo({
+            top: 0
+        })
+    });
+});
