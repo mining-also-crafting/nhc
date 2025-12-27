@@ -1,0 +1,1 @@
+let IS_IOS=/CriOS/.test(window.navigator.userAgent),IS_HIDPI=1<window.devicePixelRatio,IS_MOBILE=/Android/.test(window.navigator.userAgent)||IS_IOS,IS_RTL="rtl"===document.querySelector("html").dir,FPS=60;export{IS_IOS,IS_HIDPI,IS_MOBILE,IS_RTL,FPS};

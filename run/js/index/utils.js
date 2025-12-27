@@ -1,0 +1,1 @@
+import{IS_IOS}from"./constants.js";function getRandomNum(min,max){return Math.floor(Math.random()*(max-min+1))+min}function getTimeStamp(){return IS_IOS?(new Date).getTime():performance.now()}export{getRandomNum,getTimeStamp};

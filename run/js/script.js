@@ -1,0 +1,1 @@
+import{Runner}from"./index/offline.js";window.addEventListener("load",()=>{var trexGameContainer=document.querySelector(".trex-game");new Runner(trexGameContainer)});
