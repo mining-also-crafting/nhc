@@ -1,0 +1,1 @@
+# NHC Server Resource Pack
