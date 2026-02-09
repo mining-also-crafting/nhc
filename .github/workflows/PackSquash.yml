@@ -15,7 +15,7 @@ jobs:
       - name: Squash
         uses: ComunidadAylas/PackSquash-action@v4
         with:
-          packsquash_version: v0.4.0
+          packsquash_version: v0.4.1
           options: |
             pack_directory = './resources/'
             output_file_path = '/tmp/Server_Resources.zip'
