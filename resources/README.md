@@ -8,5 +8,18 @@ example: `blooming:santa_hat`
 
 items:
 - `santa_hat`
-<img src="https://github.com/mining-also-crafting/nhc/blob/main/resources/assets/blooming/textures/item/santa_hat_sprite.png?raw=true"/>\
+<img src="https://github.com/mining-also-crafting/nhc/blob/main/resources/assets/blooming/textures/item/santa_hat_sprite.png?raw=true"/>
+
 <img src="https://github.com/mining-also-crafting/nhc/blob/main/resources/showcase/blooming/santa_hat.png?raw=true"/>
+
+
+
+### cristifrt
+namespace: `cristifrt`\
+example: `cristifrt:rolex`
+
+items:
+- `cristifrt`
+<img src="https://github.com/mining-also-crafting/nhc/blob/main/resources/showcase/cristifrt/rolex.png?raw=true"/>
+
+<img src="https://github.com/mining-also-crafting/nhc/blob/main/resources/showcase/cristifrt/rolex_gui.png?raw=true"/>
