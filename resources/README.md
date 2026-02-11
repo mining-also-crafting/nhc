@@ -3,12 +3,19 @@
 
 # NHC Resource Pack
 ### Navigation:
+[Alpixus](https://github.com/mining-also-crafting/nhc/tree/main/resources#alpixus)
+- [Jetpack](https://github.com/mining-also-crafting/nhc/tree/main/resources#jetpack)
+
+
+
 [Blooming3665](https://github.com/mining-also-crafting/nhc/tree/main/resources#blooming3665)
 - [Santa Hat](https://github.com/mining-also-crafting/nhc/tree/main/resources#santa-hat)
 
 
+
 [cristifrt](https://github.com/mining-also-crafting/nhc/tree/main/resources#cristifrt)
 - [Rolex](https://github.com/mining-also-crafting/nhc/tree/main/resources#rolex)
+
 
 
 [Old](https://github.com/mining-also-crafting/nhc/tree/main/resources#old)
@@ -19,7 +26,19 @@
 
 
 
-### Blooming3665
+## Alpixus
+namespace: `alpixus`\
+example: `alpixus:jetpack`
+
+items:
+### Jetpack
+- `jetpack` <img src="https://github.com/mining-also-crafting/nhc/blob/main/resources/assets/alpixus/textures/item/jetpack/sprite.png?raw=true"/>
+
+<img src="https://github.com/mining-also-crafting/nhc/blob/main/showcase/blooming/jetpack.png?raw=true"/>
+
+
+
+## Blooming3665
 namespace: `blooming`\
 example: `blooming:santa_hat`
 
@@ -31,7 +50,7 @@ items:
 
 
 
-### cristifrt
+## cristifrt
 namespace: `cristifrt`\
 example: `cristifrt:rolex`
 
@@ -43,7 +62,7 @@ items:
 
 
 
-### Old
+## Old
 namespace: `old`\
 example: `old:totem_of_undying`
 
