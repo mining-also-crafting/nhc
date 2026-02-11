@@ -34,7 +34,7 @@ items:
 ### Jetpack
 - `jetpack` <img src="https://github.com/mining-also-crafting/nhc/blob/main/resources/assets/alpixus/textures/item/jetpack/sprite.png?raw=true"/>
 
-<img src="https://github.com/mining-also-crafting/nhc/blob/main/showcase/blooming/jetpack.png?raw=true"/>
+<img src="https://github.com/mining-also-crafting/nhc/blob/main/resources/showcase/blooming/jetpack.png?raw=true"/>
 
 
 
