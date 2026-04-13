@@ -20,6 +20,6 @@ jobs:
             pack_directory = './resources/'
             output_file_path = '/tmp/Server_Resources.zip'
       - name: Release
-        uses: softprops/action-gh-release@v2
+        uses: softprops/action-gh-release@v3
         with:
           files: /tmp/Server_Resources.zip
